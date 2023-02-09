@@ -1,0 +1,3 @@
+2018-09-15 11:50:53.002 [31364] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2018-09-15 11:50:53.004 [31364] LOG_ALARM logger id=0 key=Main name=Main path=./ndisdata/ndis_logs/ level=1 display=true log4z.cpp:1933
+2018-09-15 11:50:53.004 [7084] LOG_ERROR [NDIS_FireWall_x] Cannot open config NDIS_FireWall_x.ini file. filter.cpp:824
