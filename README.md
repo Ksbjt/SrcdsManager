@@ -1,0 +1,2 @@
+# SrcdsManager
+Management Server Software
