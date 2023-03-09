@@ -22,7 +22,7 @@
 
 ### 服务器启动参数
 
-`+game_type 0 +game_mode 0 -tickrate 64 +mapgroup mg_active +exec server-2-1 -usercon`
+`+game_type 0 +game_mode 0 -tickrate 64 +mapgroup mg_active +exec server1-1 -usercon`
 
 其余参数请在UI界面自行设置（例：服务器名称，服务器路径，IP，端口，启动地图，最大玩家）
 
